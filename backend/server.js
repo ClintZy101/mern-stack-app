@@ -22,6 +22,3 @@ app.get("/", (req, res) => {
   res.send("Hello from Node API ser");
 });
 
-// console.log(process.env.DATABASE_URL, "mondodb");
-
-// "type": "module"  === is used so you can use es6 modular export and import
